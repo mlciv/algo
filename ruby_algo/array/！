@@ -1,0 +1,12 @@
+#1. create array
+
+num = [1,2,3,4]
+
+## Array.new
+
+a = Array.new
+p a
+a = Array.new(5)
+p a 
+a = Array.new(5,"123")
+p a 
